@@ -16,7 +16,7 @@ let readFile = path => {
 If you prefer OCaml syntax:
 
 ```ocaml
-let read_whole_file filename =
+let read_file path =
     let ch = open_in filename in
     let s = really_input_string ch (in_channel_length ch) in
     close_in ch;
