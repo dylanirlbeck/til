@@ -1,6 +1,6 @@
 # TIL
 
-A collection of write-ups on things I came across on a day to day.
+A collection of (hopefully) concise write-ups on things I've come across.
 
 ### Categories
 
