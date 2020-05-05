@@ -1,5 +1,10 @@
 # Kitty Sessions
 
+This TIL ended up being longer than I had anticipated, so I turned it into
+a [blog post](https://dev.to/dylanirlbeck/kitty-sessions-44j2)!
+
+---
+
 One of the best features about Kitty are [startup
 sessions](https://sw.kovidgoyal.net/kitty/index.html#startup-sessions). Sessions
 allow you to create one or more tabs on startup (or with the `kitty --session`
