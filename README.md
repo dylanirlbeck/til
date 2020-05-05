@@ -6,6 +6,7 @@ A collection of (hopefully) concise write-ups on things I've come across.
 
 - [Developer Best Practices](https://github.com/dylanirlbeck/til/tree/master/developer-best-practices)
 - [Reason/OCaml](https://github.com/dylanirlbeck/til/tree/master/reason)
+- [Kitty](https://github.com/dylanirlbeck/til/tree/master/kitty)
 
 ## About
 
