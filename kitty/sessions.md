@@ -1,10 +1,8 @@
-# Kitty Sessions
-
 This TIL ended up being longer than anticipated, so I turned it into a [blog
 post](https://dev.to/dylanirlbeck/kitty-sessions-44j2)! I'd read there if you're
 interested, since this TIL isn't so brief.
 
----
+# Kitty Sessions
 
 One of the best features about Kitty are [startup
 sessions](https://sw.kovidgoyal.net/kitty/index.html#startup-sessions). Sessions
