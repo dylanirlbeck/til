@@ -1,7 +1,8 @@
 # Kitty Sessions
 
-This TIL ended up being longer than I had anticipated, so I turned it into
-a [blog post](https://dev.to/dylanirlbeck/kitty-sessions-44j2)!
+This TIL ended up being longer than anticipated, so I turned it into a [blog
+post](https://dev.to/dylanirlbeck/kitty-sessions-44j2)! I'd read there if you're
+interested, since this TIL isn't so brief.
 
 ---
 
